@@ -1,5 +1,5 @@
 @extends('layout.app')
 @section('title', 'dashboard')
 @section('content')
-    <p>Ini Dashboard Bro</p>
+    <p>Dashboard Admin KK Company</p>
 @endsection
