@@ -57,7 +57,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('karyawan') }}">
                     <i class="fas fa-fw fa-users"></i>
-                    <span class="text-dark">Karyawan</span></a>
+                    <span class="text-dark">Data Karyawan</span></a>
             </li>
 
             <!-- Divider -->
